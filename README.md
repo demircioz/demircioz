@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 2nd year Computer Sciences student at University Institute of Fontainebleau<br>👨‍💻 Future Engineer, mostly in Systems, Network, Data and Cybersecurity<br>⚙️ Mostly coding in Java, C, JavaScript and some web frameworks (React.js, CodeIgniter3...).<br>🗂️ You can find my school projects and many other personal projects on my GitHub profile <br>‼️ Looking for an internship for April 2026 !<br>
+🎓 2nd year Computer Sciences student at University Institute of Fontainebleau<br>👨‍💻 Future Engineer, mostly in Systems, Network, Data and Cybersecurity<br>⚙️ Mostly coding in Java, C, JavaScript and some web frameworks (React.js, CodeIgniter3...).<br>🗂️ You can find my school projects and many other personal projects on my GitHub profile <br>‼️ Looking for an apprenticeship for September 2026 !<br>
 
 
 ## 🌐 Socials:
